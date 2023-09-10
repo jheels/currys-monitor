@@ -11,7 +11,7 @@ Instead you could save hours of your day while being notified when a product is 
   <li> Run the script in the background and let it monitor</li>
 </ul>
 
-## How does it work?
+## How does it work?
 
 The script can monitor two different API endpoints depending if you want to monitor the site or their alternative endpoint.
 
